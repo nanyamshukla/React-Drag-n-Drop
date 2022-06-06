@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.b600d985.css",
-    "main.js": "/static/js/main.6621cddf.js",
-    "static/js/787.84296454.chunk.js": "/static/js/787.84296454.chunk.js",
-    "index.html": "/index.html",
-    "main.b600d985.css.map": "/static/css/main.b600d985.css.map",
-    "main.6621cddf.js.map": "/static/js/main.6621cddf.js.map",
-    "787.84296454.chunk.js.map": "/static/js/787.84296454.chunk.js.map"
+    "main.css": "/React-Drag-n-Dropb.io/static/css/main.b600d985.css",
+    "main.js": "/React-Drag-n-Dropb.io/static/js/main.e8681044.js",
+    "static/js/787.84296454.chunk.js": "/React-Drag-n-Dropb.io/static/js/787.84296454.chunk.js",
+    "index.html": "/React-Drag-n-Dropb.io/index.html",
+    "main.b600d985.css.map": "/React-Drag-n-Dropb.io/static/css/main.b600d985.css.map",
+    "main.e8681044.js.map": "/React-Drag-n-Dropb.io/static/js/main.e8681044.js.map",
+    "787.84296454.chunk.js.map": "/React-Drag-n-Dropb.io/static/js/787.84296454.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b600d985.css",
-    "static/js/main.6621cddf.js"
+    "static/js/main.e8681044.js"
   ]
 }
