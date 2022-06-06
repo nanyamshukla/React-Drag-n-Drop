@@ -1,0 +1,42 @@
+.listItemContainer {
+    background-color: rgba(189, 193, 194, 0.514);
+    border-radius: 12px;
+    padding: 15px;
+
+    .listItemHeader {
+        box-shadow: none;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 24px;
+        font-weight: 500;
+        margin: 40px 0;
+        padding: 0 10px;
+
+        .listItemCloseIcon {
+            font-size: 30px;
+            width: 30px;
+            height: 30px;
+            padding: 3px;
+            border: 2px solid transparent;
+            border-radius: 50%;
+
+            &:hover {
+                color: red;
+                border-color: red;
+                animation: showCross 0.5s infinite ease-in-out;
+            }
+
+            @keyframes showCross {
+                0%,
+                100% {
+                    transform: scale(1);
+                }
+
+                50% {
+                    transform: scale(1.25);
+                }
+            }
+        }
+    }
+}

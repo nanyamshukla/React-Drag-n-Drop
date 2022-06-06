@@ -1,0 +1,20 @@
+.addCardFormContainer {
+    width: inherit;
+    background-color: rgba(165,165,165, 0.5);
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 10px;
+
+    .addCardForm {
+        display: flex;
+        flex-direction: column;
+
+        .addCardTitleFormInput {
+            width: 60%;
+        }
+
+        button {
+            width: 50%;
+        }
+    }
+}

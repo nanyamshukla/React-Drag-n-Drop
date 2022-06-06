@@ -1,0 +1,16 @@
+.addListFormContainer {
+    max-width: 250px;
+    padding: 10px;
+    border-radius: 4px;
+    background-color: rgba(17,17,17, 0.514);
+
+    .addListForm {
+        display: flex;
+        flex-direction: column;
+
+        .addListFormInput {
+            border: 0;
+            padding: 10px;
+        }
+    }
+}
