@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Drag-n-Dropb.io/static/css/main.b600d985.css",
-    "main.js": "/React-Drag-n-Dropb.io/static/js/main.e8681044.js",
-    "static/js/787.84296454.chunk.js": "/React-Drag-n-Dropb.io/static/js/787.84296454.chunk.js",
-    "index.html": "/React-Drag-n-Dropb.io/index.html",
-    "main.b600d985.css.map": "/React-Drag-n-Dropb.io/static/css/main.b600d985.css.map",
-    "main.e8681044.js.map": "/React-Drag-n-Dropb.io/static/js/main.e8681044.js.map",
-    "787.84296454.chunk.js.map": "/React-Drag-n-Dropb.io/static/js/787.84296454.chunk.js.map"
+    "main.css": "/React-Drag-n-Drop/static/css/main.b600d985.css",
+    "main.js": "/React-Drag-n-Drop/static/js/main.8f9cc0b0.js",
+    "static/js/787.84296454.chunk.js": "/React-Drag-n-Drop/static/js/787.84296454.chunk.js",
+    "index.html": "/React-Drag-n-Drop/index.html",
+    "main.b600d985.css.map": "/React-Drag-n-Drop/static/css/main.b600d985.css.map",
+    "main.8f9cc0b0.js.map": "/React-Drag-n-Drop/static/js/main.8f9cc0b0.js.map",
+    "787.84296454.chunk.js.map": "/React-Drag-n-Drop/static/js/787.84296454.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b600d985.css",
-    "static/js/main.e8681044.js"
+    "static/js/main.8f9cc0b0.js"
   ]
 }
